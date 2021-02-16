@@ -1,0 +1,3 @@
+#1st of all go to terminal then type--"pip install pywhatkit". Then it will be installed and take some time.
+import pywhatkit
+pywhatkit.sendwhatmsg("+88 enter number","Happy birthday Buddy", 17,26) #type him or her phone number where you send him/her for msg.pls remove "enter your number" and type victim phone number."Happy birthday Buddy"-this is the msg.you can remove it and send msg what you want. 17 is hr and 26 is minute. 
